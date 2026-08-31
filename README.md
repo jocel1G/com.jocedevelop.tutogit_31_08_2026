@@ -27,3 +27,5 @@ git push origin main
 ```bash
 git checkout -b nom_de_la_branche
 ```
+
+Pour les bonnes pratiques, on va intégrer la notion de revue de code. Pour cela, on va créer une branche pour chaque fonctionnalité que l'on souhaite ajouter à notre projet. Une fois la fonctionnalité terminée, on va créer une Pull Request (PR) pour demander à un autre développeur de relire notre code avant de le fusionner dans la branche principale.
